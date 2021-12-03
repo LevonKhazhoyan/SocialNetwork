@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de201e7e-72bf-4505-9f3d-c4983f793772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/entities/Subscription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/Subscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/Subscription.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/dao/PersonJdbcDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/dao/PersonJdbcDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/dao/SubscriptionJdbcDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/dao/SubscriptionJdbcDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/entities/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/SocialNetworkApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/SocialNetworkApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/Subscription.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/dao/PersonJdbcDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proj/socialNetwork/dao/SubscriptionJdbcDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proj/socialNetwork/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proj/socialNetwork/Subscription.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proj/socialNetwork/dao/PersonJdbcDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/proj/socialNetwork/dao/SubscriptionJdbcDAO.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +63,9 @@
     </option>
   </component>
   <component name="ProjectId" id="21bEGl4fz5UCX4rPWU33EAGTU75" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +86,7 @@
       <module name="socialNetwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proj.socialNetwork.*" />
+          <option name="PATTERN" value="proj.socialNetwork.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +124,17 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
